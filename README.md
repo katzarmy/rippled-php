@@ -25,7 +25,10 @@ installation section.
 ```
 composer require php-http/guzzle6-adapter php-http/message
 ```
+```
+composer require hwi/oauth-bundle php-http/httplug-bundle
 
+```
 ## Installation
 
 ```
